@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Roberto José subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Juegos" title="Juegos">
+            <outline type="rss" text="EOL-Juegos" title="EOL-Juegos" xmlUrl="http://www.elotrolado.net/feed.php?t=2" htmlUrl="https://www.elotrolado.net"/>
+            <outline type="rss" text="AnaitGames" title="AnaitGames" xmlUrl="http://www.anaitgames.com/feed/" htmlUrl="https://www.anaitgames.com"/>
+            <outline type="rss" text="PS3" title="PS3" xmlUrl="http://feeds.feedburner.com/SCEEBlogES" htmlUrl="https://blog.es.playstation.com"/>
+            <outline type="rss" text="Polygon - Full" title="Polygon - Full" xmlUrl="http://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com/"/>
+            <outline type="rss" text="Destructoid" title="Destructoid" xmlUrl="http://www.destructoid.com/elephant/index.phtml?mode=atom" htmlUrl="https://www.destructoid.com/"/>
+            <outline type="rss" text="Ecetia" title="Ecetia" xmlUrl="http://feeds.hipertextual.com/ecetia" htmlUrl="http://hipertextual.com"/>
+            <outline type="rss" text="VX" title="VX" xmlUrl="http://feeds.weblogssl.com/vidaextra" htmlUrl="https://www.vidaextra.com"/>
+            <outline type="rss" text="Nintendo Life" title="Nintendo Life" xmlUrl="http://www.nintendolife.com/feeds/latest" htmlUrl="http://www.nintendolife.com/feeds/latest"/>
+            <outline type="rss" text="GamesAjare" title="GamesAjare" xmlUrl="http://feeds.feedburner.com/Gamesajare" htmlUrl="http://gamesajare.com/finalcountdown"/>
+            <outline type="rss" text="Eurogamer.es" title="Eurogamer.es" xmlUrl="http://www.eurogamer.es/rss/eurogamer_frontpage_feed.rss" htmlUrl="https://www.eurogamer.es/"/>
+            <outline type="rss" text="Kotaku" title="Kotaku" xmlUrl="http://feeds.gawker.com/kotaku/vip" htmlUrl="https://kotaku.com"/>
+            <outline type="rss" text="Joystiq" title="Joystiq" xmlUrl="http://playstation.joystiq.com/tag/@ps3/rss.xml" htmlUrl="https://www.engadget.com/tag/@ps3/rss.xml"/>
+            <outline type="rss" text="Nintenderos" title="Nintenderos" xmlUrl="http://www.nintenderos.com/feed/" htmlUrl="https://www.nintenderos.com"/>
+            <outline type="rss" text="PS3Hax" title="PS3Hax" xmlUrl="http://www.ps3hax.net/feed/" htmlUrl="http://www.ps3hax.net"/>
+        </outline>
+        <outline text="Raspberry Pi" title="Raspberry Pi">
+            <outline type="rss" text="Raspberrypi.org" title="Raspberrypi.org" xmlUrl="http://www.raspberrypi.org/feed/" htmlUrl="https://www.raspberrypi.org"/>
+            <outline type="rss" text="Mis apuntes de ..." title="Mis apuntes de ..." xmlUrl="http://misapuntesde.com/rss.php?lang=es" htmlUrl="http://misapuntesde.com/"/>
+        </outline>
+        <outline text="Cajón Desastre" title="Cajón Desastre">
+            <outline type="rss" text="Microsiervos" title="Microsiervos" xmlUrl="http://feeds2.feedburner.com/microsiervos" htmlUrl="https://www.microsiervos.com"/>
+            <outline type="rss" text="WTF" title="WTF" xmlUrl="http://feeds.feedburner.com/microsiervos/wtf" htmlUrl="http://wtf.microsiervos.com/"/>
+            <outline type="rss" text="tuschollos" title="tuschollos" xmlUrl="http://www.blogdechollos.com/feed" htmlUrl="https://www.blogdechollos.com"/>
+            <outline type="rss" text="El blog de las ofertas" title="El blog de las ofertas" xmlUrl="http://blog.ofertitas.es/feed/" htmlUrl="https://www.ofertitas.es"/>
+        </outline>
+        <outline text="Móviles" title="Móviles">
+            <outline type="rss" text="Xataka Movil" title="Xataka Movil" xmlUrl="http://feeds.weblogssl.com/xatakamovil" htmlUrl="https://www.xatakamovil.com"/>
+            <outline type="rss" text="El Androide Libre" title="El Androide Libre" xmlUrl="http://feeds.feedburner.com/elandroidelibre/" htmlUrl="https://elandroidelibre.elespanol.com"/>
+            <outline type="rss" text="Xataka Android" title="Xataka Android" xmlUrl="http://feeds.weblogssl.com/xatakandroid" htmlUrl="https://www.xatakandroid.com"/>
+        </outline>
+        <outline text="Software" title="Software">
+            <outline type="rss" text="OMG" title="OMG" xmlUrl="http://feeds.feedburner.com/d0od" htmlUrl="https://www.omgubuntu.co.uk"/>
+            <outline type="rss" text="UbuntuLife" title="UbuntuLife" xmlUrl="http://ubuntulife.wordpress.com/feed/" htmlUrl="https://ubuntulife.wordpress.com"/>
+            <outline type="rss" text="OMG! Chrome!" title="OMG! Chrome!" xmlUrl="http://www.omgchrome.com/feed/" htmlUrl="http://www.omgchrome.com"/>
+            <outline type="rss" text="Web Upd8" title="Web Upd8" xmlUrl="http://feeds2.feedburner.com/webupd8" htmlUrl="http://www.webupd8.org/"/>
+            <outline type="rss" text="Bitelia" title="Bitelia" xmlUrl="http://feeds.hipertextual.com/bitelia" htmlUrl="http://hipertextual.com"/>
+            <outline type="rss" text="XWin" title="XWin" xmlUrl="http://feeds.weblogssl.com/xatakawindows" htmlUrl="https://www.xatakawindows.com"/>
+            <outline type="rss" text="Genbeta" title="Genbeta" xmlUrl="http://feeds.weblogssl.com/genbeta" htmlUrl="https://www.genbeta.com"/>
+        </outline>
+        <outline text="Televisión" title="Televisión">
+            <outline type="rss" text="VayaTele" title="VayaTele" xmlUrl="http://feeds.weblogssl.com/vayatele2" htmlUrl="https://www.espinof.com"/>
+            <outline type="rss" text="FórmulaTV" title="FórmulaTV" xmlUrl="http://feeds.noxvo.com/ftv" htmlUrl="https://www.formulatv.com/"/>
+            <outline type="rss" text="Vertele" title="Vertele" xmlUrl="http://www.vertele.com/rss/articulos.php" htmlUrl="http://vertele.eldiario.es/"/>
+        </outline>
+        <outline text="Programación" title="Programación">
+            <outline type="rss" text="Mkyong" title="Mkyong" xmlUrl="http://feeds.feedburner.com/FeedForMkyong" htmlUrl="http://www.mkyong.com"/>
+            <outline type="rss" text="PyImageSearch" title="PyImageSearch" xmlUrl="http://feeds.feedburner.com/Pyimagesearch" htmlUrl="https://www.pyimagesearch.com"/>
+        </outline>
+        <outline text="Divulgación" title="Divulgación">
+            <outline type="rss" text="FayerWayer" title="FayerWayer" xmlUrl="http://feeds.feedburner.com/FayerWayer" htmlUrl="https://www.fayerwayer.com/"/>
+            <outline type="rss" text="Eureka" title="Eureka" xmlUrl="http://danielmarin.naukas.com/feed/" htmlUrl="https://danielmarin.naukas.com"/>
+            <outline type="rss" text="Jot Down Cultural Magazine" title="Jot Down Cultural Magazine" xmlUrl="http://www.jotdown.es/feed/" htmlUrl="https://www.jotdown.es"/>
+            <outline type="rss" text="Xataka Ciencia" title="Xataka Ciencia" xmlUrl="http://feeds.weblogssl.com/genciencia" htmlUrl="https://www.xatakaciencia.com"/>
+            <outline type="rss" text="Wired" title="Wired" xmlUrl="http://feeds.wired.com/wired/index" htmlUrl="https://www.wired.com/latest"/>
+        </outline>
+        <outline text="Tecnología" title="Tecnología">
+            <outline type="rss" text="El Chapuzas Informático" title="El Chapuzas Informático" xmlUrl="http://elchapuzasinformatico.com/feed/" htmlUrl="https://elchapuzasinformatico.com"/>
+        </outline>
+        <outline text="Cine" title="Cine">
+            <outline type="rss" text="Blog de Cine" title="Blog de Cine" xmlUrl="http://feeds.weblogssl.com/blogdecine" htmlUrl="https://www.espinof.com"/>
+            <outline type="rss" text="CINeol - Noticias de Cine" title="CINeol - Noticias de Cine" xmlUrl="http://www.cineol.net/feed_noticias.php" htmlUrl="http://www.cineol.net/feed_noticias.php"/>
+            <outline type="rss" text="Cinercia de Pepe Colubi" title="Cinercia de Pepe Colubi" xmlUrl="http://cinemania.es/category/cinercia-2/feed/" htmlUrl="http://cinemania.elmundo.es"/>
+        </outline>
+        <outline text="Tecnologia" title="Tecnologia">
+            <outline type="rss" text="Alt1040" title="Alt1040" xmlUrl="http://alt1040.com/feed" htmlUrl="https://hipertextual.com"/>
+            <outline type="rss" text="Engadget" title="Engadget" xmlUrl="http://feeds.feedburner.com/EngadgetSpanish" htmlUrl="https://www.engadget.com/rss.xml"/>
+            <outline type="rss" text="EOL" title="EOL" xmlUrl="http://www.elotrolado.net/feed.php?t=1" htmlUrl="https://www.elotrolado.net"/>
+            <outline type="rss" text="Xataka" title="Xataka" xmlUrl="http://feeds.weblogssl.com/xataka2" htmlUrl="https://www.xataka.com"/>
+        </outline>
+        <outline text="Must Read" title="Must Read">
+            <outline type="rss" text="Stories by Dayo on Medium" title="Stories by Dayo on Medium" xmlUrl="https://medium.com/feed/@DayoScript" htmlUrl="https://medium.com/@DayoScript?source=rss-d250769ce2f3------2"/>
+        </outline>
+        <outline text="Prensa Nacional" title="Prensa Nacional">
+            <outline type="rss" text="El País" title="El País" xmlUrl="http://ep00.epimg.net/rss/elpais/portada.xml" htmlUrl="https://elpais.com/rss/elpais/portada.xml"/>
+            <outline type="rss" text="El Mundo" title="El Mundo" xmlUrl="http://ftr.fivefilters.org/makefulltextfeed.php?url=estaticos.elmundo.es/elmundo/rss/portada.xml&amp;max=3&amp;links=preserve" htmlUrl="http://estaticos.elmundo.es/elmundo/rss/portada.xml"/>
+            <outline type="rss" text="20minutos" title="20minutos" xmlUrl="http://www.20minutos.es/rss/" htmlUrl="https://www.20minutos.es/"/>
+            <outline type="rss" text="El Español" title="El Español" xmlUrl="http://www.elespanol.com/feed/" htmlUrl="http://blog.elespanol.com"/>
+            <outline type="rss" text="El Huffington Post" title="El Huffington Post" xmlUrl="http://www.huffingtonpost.com/feeds/verticals/spain/index.xml" htmlUrl="https://www.huffpost.com/topic/spain"/>
+        </outline>
+        <outline type="rss" text="Stories by Dayo on Medium" title="Stories by Dayo on Medium" xmlUrl="https://medium.com/feed/@DayoScript" htmlUrl="https://medium.com/@DayoScript?source=rss-d250769ce2f3------2"/>
+    </body>
+</opml>
+
